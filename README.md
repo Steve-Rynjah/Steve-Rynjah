@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/free-vector/programming-software-app-development-isometric-concept-big-data-processing-illustration_106788-1472.jpg?size=626&ext=jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Steve</h1>
 <h3 align="center">I'm an enthusiastic React Native Developer from India.</h3>
