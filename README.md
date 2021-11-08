@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/1a/5e/b0/1a5eb0d591f21017048838cf743b84de.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Steve</h1>
 <h3 align="center">I'm an enthusiastic React Native Developer from India.</h3>
