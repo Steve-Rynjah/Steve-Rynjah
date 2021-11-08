@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://png.pngtree.com/png-vector/20201225/ourmid/pngtree-training-learning-programming-language-vector-png-image_2596054.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/1a/5e/b0/1a5eb0d591f21017048838cf743b84de.png" height="120px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Steve</h1>
 <h3 align="center">I'm an enthusiastic React Native Developer from India.</h3>
