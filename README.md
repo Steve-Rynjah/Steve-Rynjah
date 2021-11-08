@@ -15,7 +15,7 @@
 - 🎯 I’m looking forward to dive into **Web** based application soon
 
 
-- 📫 How to reach me **steveaustinrynjah27@gmail.com**
+- 📫 How to reach me **steveaustinrynjah07@gmail.com**
 
 - ⚡ What I say? **Always Do what makes you happy** 😊
 
